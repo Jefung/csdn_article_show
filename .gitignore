@@ -1,0 +1,26 @@
+# pycharm conf
+.idea
+
+# project cache
+cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Distribution / packaging
+build
+dist
+!dist/安装包构建配置文件.aip
+.Python
+env/
+venv
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# build and pack

@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="files">
+    <file>icon/finished.ico</file>
+    <file>icon/select.ico</file>
+    <file>icon/reset.ico</file>
+    <file>icon/about.ico</file>
+    <file>icon/config.ico</file>
+    <file>icon/developer.ico</file>
+    <file>icon/export-pdf.ico</file>
+    <file>icon/file.ico</file>
+    <file>icon/export-png.ico</file>
+    <file>icon/love.ico</file>
+    <file>icon/open.ico</file>
+    <file>icon/pause.ico</file>
+    <file>icon/quit.ico</file>
+    <file>icon/report.ico</file>
+    <file>icon/start.ico</file>
+    <file>icon/terminate.ico</file>
+    <file>icon/export-excel.ico</file>
+    <file>icon/adjust.ico</file>
+  </qresource>
+</RCC>
