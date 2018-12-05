@@ -68,6 +68,12 @@ class MainGuiController(quite.DialogUiController):
                            article_id=article_id,
                            page_num=self.cur_page)
 
+        @quite.connect_with(self.button("clear_condition").excited)
+        def clear_condition():
+            self.edit("title").string.value = ""
+            self.edit("author").string.value = ""
+            self.edit("article_id").string.value = ""
+
     def show_page(self, **kwargs):
         res = csdn_article_table.search(**kwargs)
         # res = csdn_article_table.search(self.cur_page)
