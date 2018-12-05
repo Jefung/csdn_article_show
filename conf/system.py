@@ -3,7 +3,7 @@ import logging
 import os
 import sys
 
-project_name = "[项目名]"
+project_name = "爬虫数据显示"
 
 # determine whether the program is running in user mode
 # if it is in user mode, is_exe is True, otherwise it is False
