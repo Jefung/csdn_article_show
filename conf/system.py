@@ -27,4 +27,6 @@ logging.basicConfig(filename=logging_file_path, level=logging.INFO, format='%(as
 project_dir = os.path.dirname(os.path.dirname(__file__))
 
 # set sqlite db file
-db_file = os.path.join(user_data_dir, project_name + ".db")
+# db_file = os.path.join(user_data_dir, project_name + ".db")
+db_file = r"C:\Users\jefun\Desktop\repos\csdn_spider\sqlite.db"
+image_dir = r'C:\Users\jefun\Desktop\repos\csdn_spider\images'
