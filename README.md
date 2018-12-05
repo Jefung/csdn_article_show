@@ -2,7 +2,8 @@
 基于[Jefung/csdn_article_spider: 基于scrapy的CSDN爬虫, 爬取包含关键词'区块链'的所有文章](https://github.com/Jefung/csdn_article_spider)
 获取到的数据(用`sqlite`存放在一个数据库文件里)进行显示
 ## 效果图
-![1543994869(1).jpg](http://images.jefung.cn/1543994869(1).jpg)
+
+![1543995962.jpg](http://images.jefung.cn/1543995962.jpg)
 
 ![1543995346.jpg](http://images.jefung.cn/1543995346.jpg)
 
